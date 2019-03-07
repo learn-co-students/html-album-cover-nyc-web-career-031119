@@ -11,7 +11,7 @@ will be to update `index.html` based on commented notes in the file, using what
 we've learned about text formatting and displaying images.
 
 ## Objectives
-
+ 
 1. Practice applying header, paragraph, image and span tags
 
 ## The Mock Up
